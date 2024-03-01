@@ -1,0 +1,26 @@
+{
+  "name": "mail-server",
+  "version": "1.0.0",
+  "description": "Mail Server using NodeJS smtp-server package",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kumarguddu609/Mail-Server.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "Mail",
+    "Server",
+    "SMTP-Server",
+    "SMTP"
+  ],
+  "author": "Guddu Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kumarguddu609/Mail-Server/issues"
+  },
+  "homepage": "https://github.com/kumarguddu609/Mail-Server#readme"
+}
