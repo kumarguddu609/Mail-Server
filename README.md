@@ -37,7 +37,7 @@ npm install
 - Click on "Launch Instance".
   ![alt text](/resources/launch.png)
 - Choose Name of Server and an Amazon Machine Image (AMI), preferably Ubuntu Free tier.
-  ![alt text](/resources/1.mp4)
+  ![alt text](</resources/1%20(1).gif>)
 - Select an instance type.
   t2.micro Free tier
   ![alt text](/resources/instance.png)
