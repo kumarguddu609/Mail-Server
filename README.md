@@ -37,18 +37,18 @@ npm install
 - Click on "Launch Instance".
   ![alt text](/resources/launch.png)
 - Choose Name of Server and an Amazon Machine Image (AMI), preferably Ubuntu Free tier.
-  ![alt text](</resources/1%20(1).gif>)
+  ![alt text](/resources/1.m4v)
 - Select an instance type.
   t2.micro Free tier
-  ![alt text](/resources/instance.png)
+  ![alt text](/resources/1.m4v)
 - Configure instance details and create a new key-pair.
-  ![alt text](/resources/2.mp4)
+  ![alt text](/resources/2.m4v)
 - Click Launch Instances.
 - Go to EC2 Dashboard and see instances.
 - Configure security groups (ensure that port 25 for SMTP is open).
-  ![alt text](/resources/3.mp4)
+  ![alt text](/resources/3.m4v)
 - Review, save and start connection.
-  ![alt text](/resources/4.mp4)
+  ![alt text](/resources/4.m4v)
 
 3. **Install Node.js and npm:**
 
