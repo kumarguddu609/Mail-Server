@@ -33,22 +33,37 @@ npm install
 2. **Launch an Instance:**
 
 - Go to EC2 Dashboard.
-  ![alt text](/resources/EC2.png)
+![EC2](https://github.com/kumarguddu609/Mail-Server/assets/86231681/f9989e55-1f98-4f87-ad0a-2076670aba27)
+
 - Click on "Launch Instance".
-  ![alt text](/resources/launch.png)
+ ![launch](https://github.com/kumarguddu609/Mail-Server/assets/86231681/6e5b5d33-5a02-4bce-a7f7-303324d04f4a)
+
 - Choose Name of Server and an Amazon Machine Image (AMI), preferably Ubuntu Free tier.
-  ![alt text](/resources/1.m4v)
+  
+https://github.com/kumarguddu609/Mail-Server/assets/86231681/36cb7a1b-ae00-43e1-aac1-70b99a9c0946
+
 - Select an instance type.
   t2.micro Free tier
-  ![alt text](/resources/1.m4v)
+  ![instance](https://github.com/kumarguddu609/Mail-Server/assets/86231681/99776d95-bc4d-4838-aa1d-4867cede35b2)
 - Configure instance details and create a new key-pair.
-  ![alt text](/resources/2.m4v)
+
+https://github.com/kumarguddu609/Mail-Server/assets/86231681/301845c6-97ad-48e4-bc8a-997dce2ef8dd
+
+
 - Click Launch Instances.
 - Go to EC2 Dashboard and see instances.
 - Configure security groups (ensure that port 25 for SMTP is open).
-  ![alt text](/resources/3.m4v)
+
+
+https://github.com/kumarguddu609/Mail-Server/assets/86231681/62de8cd9-c42e-4a1b-bbf8-c304b3ccee8e
+
+ 
 - Review, save and start connection.
-  ![alt text](/resources/4.m4v)
+ 
+
+https://github.com/kumarguddu609/Mail-Server/assets/86231681/0df53e8d-7268-4571-a9c8-c2e840528442
+
+
 
 3. **Install Node.js and npm:**
 
