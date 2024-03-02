@@ -13,13 +13,13 @@ This project is a simple mail server implemented using Node.js and the `smtp-ser
 
 ## Installation
 
-1. Clone the repository:
+1. **Clone the repository:**
 
 ```bash
 git clone https://github.com/kumarguddu609/Mail-Server.git
 ```
 
-2. Install dependencies
+2. **Install dependencies:**
 
 ```bash
 cd mail-server
@@ -28,9 +28,9 @@ npm install
 
 ## AWS EC2 Deployment
 
-1. Sign in to AWS Console: Sign in to your AWS account.
+1. **Sign in to AWS Console: Sign in to your AWS account.**
 
-2. Launch an Instance:
+2. **Launch an Instance:**
 
 - Go to EC2 Dashboard.
   ![alt text](/resources/EC2.png)
@@ -50,7 +50,7 @@ npm install
 - Review, save and start connection.
   ![alt text](/resources/4.mp4)
 
-3. Install Node.js and npm:
+3. **Install Node.js and npm:**
 
 - Install curl:
 
@@ -82,38 +82,38 @@ sudo apt install nodejs
 node -v
 ```
 
-4. Clone the repository:
+4. **Clone the repository:**
 
 ```bash
 git clone https://github.com/kumarguddu609/Mail-Server.git
 ```
 
-5. Install packages on Ubuntu Machine:
+5. **Install packages on Ubuntu Machine:**
 
 ```bash
 cd Mail-Server
 npm install
 ```
 
-5. Run the server
+5. **Run the server**
 
 ```bash
 sudo node server.js
 ```
 
-6. Get the public IP for access the address of the SMTP Server
-7. Get a domain or use pre-exiting domain:
+6. **Get the public IP for access the address of the SMTP Server**
+7. **Get a domain or use pre-exiting domain:**
 
 - Add 'A' in DNS setting naming mail of the domain with the IP address of Server with root
 - Add 'MX' in DNS. e.g mail.guddu.in
 - You can add SPF and DKIM or DMARC records also for secruity purpose.
 
-8. Check the server
+8. **Check the server**
 
 - Send a mail from google or any mail account to domain you have used
 - AWS Ubuntu Sever will able to receive your mail.
 
-9. Mail get received as:
+9. **Mail get received as:**
 
 ```bash
 onConnect cfxafrcwoddahpga
