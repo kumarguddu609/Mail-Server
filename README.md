@@ -33,6 +33,7 @@ npm install
 2. Launch an Instance:
 
 - Go to EC2 Dashboard.
+  ![alt text](/resources/EC2.png)
 - Click on "Launch Instance".
 - Choose an Amazon Machine Image (AMI), preferably Ubuntu.
 - Select an instance type.
