@@ -172,10 +172,10 @@ Content-Type: text/html; charset="UTF-8"
 --00000000000025e2550612aae530--
 ```
 
-10. ## License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-11. ## Contribute
+## Contribute
 
 Feel free to contribute and improve this project! If you have any questions or issues, please open an [issue](https://github.com/guddu/mail-server/issues).
